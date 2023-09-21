@@ -1,4 +1,12 @@
+body{
+    background: #cccc;
+}
 p{
     text-align: center;
+
+}
+em strong{
+    color: rgb(7, 120, 240);
+
 }
 
